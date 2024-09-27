@@ -1,0 +1,13 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">MAPD711 Assignment1</string>
+    <string name="form_title">Student Input Form:</string>
+    <string name="hint_name">Type Your Name</string>
+    <string name="hint_address">Type Your Address</string>
+    <string name="hint_profession">Past or current job</string>
+    <string name="hint_dream_job">Type here</string>
+    <string name="hint_favorite_food">Type here</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="profile_title">Student Profile:</string>
+</resources>
